@@ -19,6 +19,7 @@ cloudpickle==1.6.0
 cycler==0.10.0
 Cython==0.29.21
 decorator==4.4.2
+git+https://github.com/facebookresearch/detectron2.git
 defusedxml==0.6.0
 entrypoints==0.3
 enum-compat==0.0.3
